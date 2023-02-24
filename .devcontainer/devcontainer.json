@@ -1,6 +1,10 @@
 {
-  "extensions" : [
-	"GitHub.copilot",
-	"ms-vscode.cpptools"
-]
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"ms-vscode.cpptools"
+			]
+		}
+	}
 }
